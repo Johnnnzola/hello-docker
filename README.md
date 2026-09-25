@@ -71,4 +71,4 @@ This project is part of my hands-on learning in:
 
 John Nzola Musyoka
 
-Cybersecurity Engineer | Ethical Hacker | ICT Professional
+Cybersecurity Engineer | devosecops
