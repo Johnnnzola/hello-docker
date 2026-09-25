@@ -69,6 +69,6 @@ This project is part of my hands-on learning in:
 
 ## Author
 
-John Nzola Musyoka
+John Nzola 
 
 Cybersecurity Engineer | devosecops
